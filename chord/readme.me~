@@ -1,0 +1,16 @@
+Chord P2P Protocol-----------------
+
+Project members:
+1) Drumil Deshpande, UFID - 83598265
+2) Sumeet Pande, UFID - 48909873
+
+The project is an implementation of a Peer-to-peer protocol Chord.
+
+To run the project type the following command in terminal:
+sbt "run <number of  atcive nodes> <number of messages>"
+
+Number of active Nodes can be any non negative Integer.
+Number of messages also can be any non neagative Integer.
+
+The otput of the network is the average Hops required per message passed in the network.
+
